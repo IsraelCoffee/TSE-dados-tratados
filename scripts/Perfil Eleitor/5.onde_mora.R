@@ -52,4 +52,5 @@ perfil_resumo <- perfil_indexado %>%
   ) %>%
   select(nome_candidato, sigla_partido, escolaridade_destaque, idade_destaque, genero_destaque, area_destaque)
 
-write_excel_csv(perfil_resumo, "D://Tabelas tratadas//TSE-dados-tratados//Tabelas finais//perfil-resumo.csv")
+# CASO QUERIA SALVA A TABELA, COLOQUE SEU CAMINHO PARA A PASTA
+#write_excel_csv(perfil_resumo, "D://Tabelas tratadas//TSE-dados-tratados//Tabelas finais//perfil-resumo.csv")
