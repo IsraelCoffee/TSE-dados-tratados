@@ -1,0 +1,555 @@
+﻿"posicao","numero_candidato","nome_candidato","sigla_partido","total_votos"
+1,"10456","Rodrigo Germano Delmasso Martins","REPUBLICANOS",23243
+2,"55123","Francisco Claudio De Abrantes","PSD",20254
+3,"22200","Reginaldo Rocha Sardinha Goes","PL",20107
+4,"22123","Agaciel Da Silva Maia","PL",17693
+5,"22777","Carlos Eduardo Antunes Torres","PL",16990
+6,"36111","Carlos Dalvan Soares De Oliveira","AGIR",16227
+7,"15015","Christianno Nogueira Araújo","MDB",15897
+8,"15222","Carlos Alberto Rodrigues Tabanez","MDB",14523
+9,"20190","Geraldo Batista Alves De Sousa","PSC",14123
+10,"22122","Renato Andrade Dos Santos","PL",13976
+11,"11234","Valdelino Rodrigues Barcelos","PP",13040
+12,"90190","Fernando Batista Fernandes","PROS",12383
+13,"44044","Daniel De Sousa Oliveira","UNIÃO",11739
+14,"33456","Renata Mesquita D Aguiar","PMN",11473
+15,"19123","Marcos Gutemberg Fialho Da Costa","PODE",11360
+16,"43123","Wasny Nakle De Roure","PV",11215
+17,"11123","Anderson Medina Borges","PP",11105
+18,"40115","Suzele Veloso De Oliveira","PSB",10306
+19,"40061","Mucio Botelho De Oliveira","PSB",9956
+20,"40105","Rodrigo Francelino Alves","PSB",9643
+21,"50050","Marivaldo De Castro Pereira","PSOL",9412
+22,"15615","Jordenes Ferreira Da Silva","MDB",9351
+23,"45000","Crícia Aparecida Martins Da Mata De Almeida","PSDB",9252
+24,"15777","Telma Rufino Alves","MDB",9093
+25,"22150","Anderson José Da Silva Teixeira","PL",9067
+26,"13222","João Jesus De Oliveira","PT",8802
+27,"23456","Nuche Menino Figueiredo De Camargo","CIDADANIA",8441
+28,"70123","Wilson Do Nascimento Araújo","AVANTE",8100
+29,"51777","Ivan Candido De Moraes","PATRIOTA",7894
+30,"33333","Pablo Aguiar Tavares De Paula Gomes","PMN",7765
+31,"13180","Hellen Cristhyan Correia Boaventura","PT",7626
+32,"44022","Sandra Faraj Cavalcante","UNIÃO",7353
+33,"11777","Marcelo Aguiar Ferreira","PP",7322
+34,"22100","Ilda Ribeiro Peliz","PL",7262
+35,"15151","Nelson Tadeu Filippelli","MDB",7152
+36,"44333","Marcos Pacco Ribeiro Coelho","UNIÃO",7128
+37,"23123","Claudeci Xavier De Miranda","CIDADANIA",6821
+38,"40040","Thaynara Melo Rodrigues","PSB",6717
+39,"36800","Oséias Ribeiro De Souza","AGIR",6642
+40,"33190","Lusimar Torres Arruda","PMN",6632
+41,"11111","Monia Vaz De Andrade Ramos","PP",6613
+42,"11222","Milena Ramos Câmara De Godoy","PP",6518
+43,"44144","Hamilton Teixeira Dos Santos","UNIÃO",6496
+44,"22389","Genilson Alves Duarte","PL",6489
+45,"36136","Alexandre De Jesus Silva Yanez","AGIR",6356
+46,"51456","Leandro Hungria Das Neves","PATRIOTA",6041
+47,"44566","Maria De Lourdes Abadia","UNIÃO",6006
+48,"10190","Michello Bueno Gonçalves Oliveira","REPUBLICANOS",5944
+49,"11555","Renato Santana Da Silva","PP",5586
+50,"70070","Marcus Vinicius Britto De Albuquerque Dias","AVANTE",5444
+51,"15133","Gustavo Almeida Aires","MDB",5207
+52,"33222","Sergio Costa Damaceno","PMN",4971
+53,"13000","Lêda Gonçalves De Freitas","PT",4894
+54,"50044","Talita Victor Silva","PSOL",4865
+55,"14100","Ericka Siqueira Nogueira Filippelli","PTB",4734
+56,"15012","José Cláudio Bonina","MDB",4730
+57,"51007","Jorge Luiz Da Cruz Silva","PATRIOTA",4705
+58,"15111","Risomar Da Silva Carvalho","MDB",4653
+59,"44444","Pedro Ivo Santana Borges De Lima","UNIÃO",4629
+60,"70111","Silene Quiteria Almeida Dias","AVANTE",4570
+61,"44123","Alecxandro Pinho Carreiro","UNIÃO",4512
+62,"19700","Alex De Oliveira Galvão","PODE",4463
+63,"13007","Fabiano E Silva Leitão Duarte","PT",4460
+64,"11022","Ana Maria Da Silva","PP",4444
+65,"15070","Dirsomar Ferreira Chaves","MDB",4359
+66,"15333","Cirene Da Silva Inácio","MDB",4344
+67,"10000","Marcelo Ferreira Da Silva","REPUBLICANOS",4327
+68,"36379","Ravan Alves Santos","AGIR",4254
+69,"45026","Francisco Joélio Rodrigues Da Silva","PSDB",4252
+70,"40456","Luzia De Lourdes Moreira De Paula","PSB",4064
+71,"33012","Weldo Gonçalves Da Silva Amorim","PMN",3937
+72,"44122","Letícia Sampaio Justino","UNIÃO",3896
+73,"51123","Antonio Francisco Gomes Barros","PATRIOTA",3890
+74,"22007","Ricardo De Souza Lima Caiafa","PL",3879
+75,"40404","Ricardo Da Silva Rocha","PSB",3841
+76,"51234","Adriana Barbosa Rocha De Faria","PATRIOTA",3691
+77,"10762","Regina Benini Moézia De Lima","REPUBLICANOS",3650
+78,"36193","Klesley Garcia Soares","AGIR",3587
+79,"70100","Marcos Mauricio Rodrigues Pereira","AVANTE",3580
+80,"44244","Olair Francisco","UNIÃO",3498
+81,"20120","Ricardo Moreira Da Costa","PSC",3471
+82,"14123","Paulo Roberto Roriz","PTB",3335
+83,"12369","José Gadêlha Loureiro","PDT",3332
+84,"36036","Orlando Sales De Oliveira Junior","AGIR",3253
+85,"13130","Magnete Barbosa Guimaraes","PT",3248
+86,"30030","Jailton Almeida Do Nascimento","NOVO",3233
+87,"51051","Maria Antonia Rodrigues Magalhaes","PATRIOTA",3229
+88,"36100","Nair Queiroz Pessoa","AGIR",3155
+89,"50999","Isabelle Avon Carolino Vanderlei","PSOL",3143
+90,"36000","José Goudim Carneiro","AGIR",3122
+91,"14190","Ailton Miranda Lustosa","PTB",3101
+92,"33001","Forland Oliveira Silva","PMN",3086
+93,"65123","Elias Silva Araújo","PC do B",3030
+94,"28028","Fábio De Barros Correia Gomes Filho","PRTB",3002
+95,"15030","Giancarlo Brugnara Chelotti","MDB",2973
+96,"43061","Mariana Almada Viana","PV",2934
+97,"11190","Estevão Souza Dos Reis","PP",2914
+98,"70000","Ubiraci Da Cunha Nogueira Filho","AVANTE",2876
+99,"23000","Leirson Trigueiro Matos","CIDADANIA",2869
+100,"20026","Izadora Soares Coimbra Dos Santos","PSC",2862
+101,"44100","Rodrigo Bento Dos Santos","UNIÃO",2810
+102,"15678","Washington Gil Mesquita","MDB",2804
+103,"10300","Reinaldo Batista Araújo","REPUBLICANOS",2800
+104,"55321","Lucimir Henrique Pessoa Maia","PSD",2768
+105,"36321","Joao Paulo Barbosa De Farias","AGIR",2738
+106,"43210","Waldir Soares Cordeiro","PV",2684
+107,"70700","Delcimar Da Rocha De Aquino Junior","AVANTE",2635
+108,"33156","Simone Pereira Magalhães","PMN",2554
+109,"33800","Adelson Ribeiro Rocha","PMN",2550
+110,"51111","Antonio De Padua Amorim Araujo","PATRIOTA",2538
+111,"90000","Silvestre Rodrigues Da Silva","PROS",2494
+112,"45101","Lucimar Neves Cordeiro Gomes","PSDB",2458
+113,"13123","Carlos Antoneto De Souza Lima Montania","PT",2454
+114,"40400","Rodrigo Oliveira De Castro Dias","PSB",2400
+115,"30333","Luiz Guilherme Pinheiro De Medeiros","NOVO",2390
+116,"30001","Getúlio Bernardo Morato Filho","NOVO",2344
+117,"22345","Wesley Wenisgton Vieira Dos Santos","PL",2340
+118,"19001","Petrus Leonardo Barron Sanchez","PODE",2305
+119,"13061","Thelma Regina Vieira De Mello","PT",2229
+120,"13321","Fatima Lucia Rola","PT",2180
+121,"44777","Allan Freire Barbosa Da Silva","UNIÃO",2125
+122,"19100","Clayton Carlos Oliveira De Araújo","PODE",2112
+123,"20500","Rogerio Sales Silveira","PSC",2110
+124,"13613","Cristiane Pereira Dos Santos","PT",2083
+125,"15555","Vanessa Chaves De Mendonça","MDB",2079
+126,"22001","Floriano Barbosa De Amorim Neto","PL",2065
+127,"36001","Samara Dos Santos Brito Neves","AGIR",2041
+128,"20191","Mauricio Alves Da Silva","PSC",2016
+129,"50333","Maria Diva Ferreira De Brito","PSOL",1999
+130,"45100","Sérgio Fernandes Ferreira","PSDB",1996
+131,"90222","Berinaldo Da Ponte","PROS",1964
+132,"44555","João Renato Borges Abreu","UNIÃO",1963
+133,"33010","Joao Cleber Fernandes De Araujo","PMN",1958
+134,"10222","Izaias Soares Pereira","REPUBLICANOS",1932
+135,"43433","Marcos Antônio De Sousa","PV",1889
+136,"23333","Maria De Deus Coelho Rocha Faria","CIDADANIA",1853
+137,"40123","Marlon Anderson Costa","PSB",1834
+138,"28088","Danilo Aragão Lima","PRTB",1823
+139,"28000","José Luiz Lopes","PRTB",1805
+140,"22061","Leonardo Rodrigues De Jesus","PL",1801
+141,"33193","Alan José Valim Maia","PMN",1801
+142,"45123","Agenildo Neri Da Silva","PSDB",1787
+143,"19456","Ricardo Dantas Gomes","PODE",1771
+144,"13023","Claudio Bessa Dos Santos","PT",1762
+145,"44193","Marcelo Oliveira Batista","UNIÃO",1761
+146,"20123","Eliomar Rodrigues De Souza","PSC",1749
+147,"36333","Washington Luiz Da Silva","AGIR",1727
+148,"36591","Antonio César Dos Santos Ramos","AGIR",1700
+149,"36222","Josivania Jorge Da Silva Gurgel","AGIR",1694
+150,"22357","Andrea Pontes Quadros Côrtes","PL",1681
+151,"51151","Eufrasio Pereira Da Silva","PATRIOTA",1673
+152,"36123","Etieno De Sousa Pereira","AGIR",1613
+153,"70800","Sued Silvio Souza","AVANTE",1607
+154,"33033","Ákilla Maria De Melo Marinho","PMN",1587
+155,"33051","Jonathan Lima De Araújo","PMN",1579
+156,"23223","Dataniel Silva Duarte","CIDADANIA",1570
+157,"20000","Manoel Messias Galvão Ribas","PSC",1560
+158,"23100","Jonathan Pereira Couto","CIDADANIA",1546
+159,"12777","João José Vianna","PDT",1536
+160,"13456","Edmilson Rodrigues De Lima","PT",1536
+161,"40015","Ana Élen Ferreira Moitinho","PSB",1525
+162,"11120","Ana Cristina Siqueira Valle","PP",1485
+163,"20100","Arnaldo Oliveira Dos Santos Sampaio Filho","PSC",1463
+164,"70777","Edimar Pireneus Cardoso","AVANTE",1458
+165,"45678","Nilson Assunção De Araújo","PSDB",1456
+166,"90391","Omar Batista Filho","PROS",1428
+167,"43420","Jeann Allison Segundo Da Cunha","PV",1398
+168,"40888","Raissa Alessandra Rossiter","PSB",1383
+169,"44567","Rebeca Braga Lakiss Gusmão","UNIÃO",1378
+170,"10333","Alzira Maria Dos Passos Folha","REPUBLICANOS",1376
+171,"10001","Leonardo Miranda De Castro","REPUBLICANOS",1375
+172,"44401","Edinézio Bernardo Dos Santos","UNIÃO",1372
+173,"90500","Kariny Geralda Alves Veiga","PROS",1313
+174,"40777","Nayeri De Souza Albuquerque","PSB",1309
+175,"15001","George Alex Lima De Souza","MDB",1301
+176,"15100","Denilson Bento Da Costa","MDB",1301
+177,"50180","Ludmila Weizmann Suaid Levyski","PSOL",1280
+178,"45456","Rogério Eduardo Pereira","PSDB",1266
+179,"40107","Josefina Serra Dos Santos","PSB",1263
+180,"30061","Márcio Costa Antonelo","NOVO",1258
+181,"70999","Jaildo Vieira Reis","AVANTE",1257
+182,"20020","Ada Silva De Sousa","PSC",1233
+183,"10022","Kelly Cristina Pereira Dos Santos","REPUBLICANOS",1224
+184,"28500","Flávio Mendes Rodrigues","PRTB",1213
+185,"90123","Jackson De Souza","PROS",1191
+186,"11456","Juarez Carlos De Lima Oliveira Junior","PP",1179
+187,"40013","Janaina Andrea Almeida Sérgio","PSB",1156
+188,"40234","João Paulo De Souza Serafim","PSB",1148
+189,"11001","Gisele Cristine De Almeida Montenegro","PP",1144
+190,"28200","Eduardo Rezende De Carvalho","PRTB",1139
+191,"35555","Michael Barbosa Miranda","PMB",1138
+192,"22321","Celina Altina Felisbino De Souza","PL",1136
+193,"80180","Gabrielly Aparecida De Araújo Soares","UP",1103
+194,"40444","Estêvão Cubas Rolim","PSB",1101
+195,"45222","Max Marcel Ossamu Yuhara","PSDB",1100
+196,"12333","Diego Rodrigues Teles","PDT",1096
+197,"51515","Gregory Brito Rodrigues","PATRIOTA",1059
+198,"44190","José Ribamar Silva De Sousa Júnior","UNIÃO",1058
+199,"10800","Eduardo Alves Moreira","REPUBLICANOS",1052
+200,"10200","Carlos Alberto Silva Calheiros","REPUBLICANOS",1044
+201,"70122","Carlos Eduardo Da Silva Mendes","AVANTE",1035
+202,"12000","Jovita José Rosa","PDT",1032
+203,"44321","Nelson Alves Pinto Neto","UNIÃO",1004
+204,"18000","Guilherme Uilson De Sousa","REDE",987
+205,"30100","João D Arc Ramos De Oliveira","NOVO",983
+206,"36999","Julio Cesar De Oliveira Silva","AGIR",980
+207,"22111","Manoel Sansão Alves Barbosa","PL",974
+208,"20022","Everaldo Antonio Da Cruz","PSC",965
+209,"40007","Darley Cesar De Jesus Cantilo","PSB",963
+210,"11033","Julio Cezar De Jesus","PP",958
+211,"22050","Mônica Neves De Almeida","PL",954
+212,"90777","Vivian Nogueira De Oliveira","PROS",952
+213,"51221","Rogerio Solon De Pontes Teixeira Pires","PATRIOTA",945
+214,"55234","Deborah Amorim De Souza Carvalhido","PSD",936
+215,"50005","Rita De Cássia Fernandes De Andrade","PSOL",934
+216,"19197","Michelle Valéria Nascimento Silva","PODE",932
+217,"30123","Valdirene Souto Araujo","NOVO",920
+218,"36888","Ionete Rubem Campos","AGIR",912
+219,"43333","Sandra Walkíria César Palmeira","PV",911
+220,"20321","Robert Luis Marques Rodrigues","PSC",902
+221,"50000","Susana Xavier","PSOL",901
+222,"44001","Albenes Francisco Souza","UNIÃO",900
+223,"44180","Deise Luci Belém De Andrade","UNIÃO",897
+224,"11192","Francisco Eraldo Soares","PP",896
+225,"28123","Sandra Moreira Padilha Vitoriano","PRTB",895
+226,"35111","Nilton Alves Dos Santos","PMB",895
+227,"70456","Divino Rosa De Souza","AVANTE",894
+228,"14193","Washington Luiz Patrocinio","PTB",893
+229,"33400","Lulo De Sousa Sena","PMN",889
+230,"70269","Mariana Siqueira Rolla Silva Alves","AVANTE",887
+231,"36777","Luiz Andre Roriz Solano","AGIR",885
+232,"33777","Glaucio Henrique Oliveira Da Cunha","PMN",881
+233,"43000","Michelle Sales Correia","PV",871
+234,"36444","José Araújo De Carvalho Lima","AGIR",865
+235,"20017","Haland Medeiros Guilarde","PSC",845
+236,"44188","Elias Pereira De Lacerda","UNIÃO",839
+237,"55777","Júlio Cesar Delia Rieder","PSD",837
+238,"30300","Giulianno Castelo Branco Lopes","NOVO",814
+239,"10177","Marco Antonio Toccolini","REPUBLICANOS",811
+240,"45777","Maria Das Dores Gomes Da Silva Santos","PSDB",801
+241,"55500","Arilson Francisco De Oliveira","PSD",800
+242,"11311","José Ricardo Grossi De Souza","PP",795
+243,"10444","Alex Ribeiro Leite","REPUBLICANOS",784
+244,"12345","Leandro Ferreira Pedroso","PDT",784
+245,"12022","William Nogueira Dos Santos","PDT",782
+246,"28111","Saulo Salmem Cad","PRTB",780
+247,"10193","Solange Ribeiro Da Silva","REPUBLICANOS",779
+248,"30987","Cleber Vilela Dourado","NOVO",772
+249,"55222","Adriano De Andrade Marrocos","PSD",765
+250,"55511","Renato Carneiro Pedroza","PSD",746
+251,"70222","Emanuell Henrique Da Silva","AVANTE",744
+252,"55456","Eurípedes Viana Santana","PSD",736
+253,"19111","Maria Cláudia Lapa De Souza Bustamante","PODE",734
+254,"55789","José Henrique Dos Santos","PSD",726
+255,"77007","Erick Peter Pontes De Gouvea","SOLIDARIEDADE",724
+256,"22633","Geraldo Francisco Do Nascimento","PL",723
+257,"10555","Mitermaier Martins Dos Anjos","REPUBLICANOS",714
+258,"55055","Andreia Salles De Souza","PSD",713
+259,"51999","Lenilson Custodio Da Silva","PATRIOTA",712
+260,"36180","Elisangela De Sousa Silva Almeida","AGIR",708
+261,"51511","Ricardo Alvarenga","PATRIOTA",691
+262,"70500","Lorena Raizama Costa","AVANTE",690
+263,"51222","Rogerio Marques Da Silva Lima","PATRIOTA",688
+264,"12012","Cristiano Luz Da Silva Pinto","PDT",686
+265,"33233","João Dias De Oliveira","PMN",678
+266,"33444","José Wellington Camargo Lima","PMN",677
+267,"65555","Verônica Theml Fialho Goulart","PC do B",676
+268,"23888","Benedito Aarao Sales De Araujo","CIDADANIA",674
+269,"19007","Fábio Muller Figueira","PODE",673
+270,"36456","José De Oliveira Guedes","AGIR",673
+271,"12300","Zaqueu De Oliveira Braga","PDT",664
+272,"11124","Luiza Maria Da Silva Souza","PP",660
+273,"40700","Fabio Miranda Rodrigues","PSB",657
+274,"51533","Alcione Fernandes Da Cruz","PATRIOTA",649
+275,"20888","Iury Almeida De Medeiros","PSC",646
+276,"14000","Robson Pereira Rodrigues","PTB",640
+277,"50400","Flávio Do Carmo","PSOL",638
+278,"19022","Fredson Marques Rodrigues","PODE",636
+279,"33300","Reginaldo Alves Lima Fernandes","PMN",626
+280,"55555","Rildo De Souza Mendes","PSD",619
+281,"36200","Renan De Almeida Júnior","AGIR",615
+282,"55666","Joao Leal Neto","PSD",606
+283,"33000","Cristiane Santos De Oliveira","PMN",605
+284,"19038","Evandro Carlos De Souza Teles","PODE",604
+285,"55444","Oswaldo Martins Ferreira","PSD",603
+286,"40001","Manoel Everton Dos Santos Laurentino","PSB",596
+287,"15215","Leonardo José Rodrigues De Sant Anna","MDB",593
+288,"11444","Iris Maria Dos Santos","PP",591
+289,"12180","Mayk Araújo Lopes","PDT",589
+290,"90145","Alessio Cordeiro De Farias","PROS",584
+291,"70400","Joab Gomes Barbosa","AVANTE",582
+292,"20222","Marcia Ribeiro Christiano Maia","PSC",575
+293,"44007","Jovino Ferreira Da Costa Tavares","UNIÃO",575
+294,"22333","Oscar Reis Da Fonseca Júnior","PL",572
+295,"19333","Cláudio Renato Campos","PODE",565
+296,"50013","Wanderson Maia Nascimento","PSOL",564
+297,"33111","Hérica Werbenia De Souza Alves","PMN",560
+298,"90156","David Alves De Sousa","PROS",560
+299,"14321","Nayara Dos Passos Soares","PTB",554
+300,"18123","Márcio André Alves Do Prado","REDE",550
+301,"51762","Ary Coutinho De Oliveira Filho","PATRIOTA",550
+302,"51025","Daniela Batista Da Silva","PATRIOTA",547
+303,"14144","Eva Lucia Fernandes De Assis","PTB",546
+304,"44111","Vanusa Lopes Ferreira Hermeto","UNIÃO",544
+305,"40033","Glayce Helena Barbosa Alves","PSB",543
+306,"20221","Antonio Augusto De Freitas Juncal","PSC",537
+307,"40022","Lucas Luz Reis Dos Santos","PSB",535
+308,"44910","Daniela Aparecida Balbina Catunda","UNIÃO",534
+309,"10099","Eliane Bento De Castro","REPUBLICANOS",530
+310,"10122","André Mauro Santos Lacerda","REPUBLICANOS",530
+311,"12321","Gabrielly Leticya Lopes Dos Santos","PDT",528
+312,"15180","Suziene Pereira Bitencourt","MDB",518
+313,"51022","Renato Torres Batista","PATRIOTA",517
+314,"14007","Ilson Walter Pereira Dos Santos","PTB",509
+315,"12123","Sandra Helena Tomé Gomes","PDT",505
+316,"11077","Jackson De Jesus Santos","PP",503
+317,"22631","Elaine De Oliveira Barbosa","PL",502
+318,"28434","Elimar Carvalho Da Silva","PRTB",498
+319,"40100","Josisson Silva Santos","PSB",486
+320,"14567","Cristiano Caiado De Acioli","PTB",485
+321,"77190","Daniel Mendes Brandão","SOLIDARIEDADE",485
+322,"19000","Pedro Henrique Vaz Ferreira","PODE",483
+323,"10147","Vanderli Dias Leite","REPUBLICANOS",482
+324,"14322","Maria Aparecida Botelho Da Silva","PTB",480
+325,"70789","Gilvan De Sousa Araujo","AVANTE",476
+326,"30303","Luiz Fernando Ramos De Almeida","NOVO",470
+327,"90022","Darione De Melo Silva","PROS",469
+328,"28280","Karine De Santes Bastos Moreira","PRTB",464
+329,"12666","Samuel Gonçalves Do Carmo","PDT",463
+330,"30111","Indira Cruz Do Couto","NOVO",462
+331,"14111","Adelane Andrade Martins Maciel","PTB",459
+332,"36360","Cristiani Dos Santos E Silva","AGIR",452
+333,"10221","Rachel Heringer Salles","REPUBLICANOS",446
+334,"10011","Álvaro De Castro","REPUBLICANOS",444
+335,"27123","João Rodrigues Brandão Neto","DC",438
+336,"18180","Calina Lígia Ferreira De Freitas","REDE",437
+337,"11000","Dayane Silva Mesquita","PP",433
+338,"30230","Vítor Bittencourt De Aquino Fernandes","NOVO",433
+339,"18181","Enilde Neres Martins","REDE",432
+340,"18061","José Olímpio Augusto Morelli","REDE",425
+341,"70321","Walter Marcelo Dos Santos","AVANTE",425
+342,"70358","Rodrigo Rafael De Santana Oliveira","AVANTE",424
+343,"14999","Klerysson Rodrigues De Sousa","PTB",423
+344,"35135","Luciano Candido Couto","PMB",416
+345,"10223","Paulo Leandro Galdo Rodrigues","REPUBLICANOS",415
+346,"33077","Gutenberg Rodrigues De Sousa","PMN",411
+347,"12456","Jean Ferreira Mourão","PDT",409
+348,"18888","Raul Loureiro Lopes Neto","REDE",408
+349,"12344","Leonardo Xavier Rangel","PDT",405
+350,"35353","Bruno De Souza Novais","PMB",404
+351,"20200","Monica De Sousa Bastos","PSC",403
+352,"30033","Elizabeth Cristina Do Nascimento Soares","NOVO",403
+353,"20391","Adeilton Alves Da Silva","PSC",401
+354,"27190","Guilherme Amorim Baptista Guimarães","DC",400
+355,"90321","Aline Oliveira Pereira","PROS",397
+356,"12148","Manoel Francisco Da Silva","PDT",395
+357,"33100","Eudes Judith Merces De Oliveira Felix","PMN",394
+358,"55010","Fernando Alves Lima","PSD",391
+359,"35999","Hueliton Simões","PMB",390
+360,"19222","Luciano De Souza Sebalho","PODE",386
+361,"14222","Simone Maria Barros Pimentel","PTB",382
+362,"23023","Eugenio Ribeiro Magalhães","CIDADANIA",382
+363,"20335","Francisco Jose Tiodosio","PSC",381
+364,"55255","Daiany Nascimento Teixeira De Oliveira","PSD",380
+365,"20444","Jackson Ribeiro Da Silva","PSC",372
+366,"35122","Enes Fonseca Junior","PMB",369
+367,"33555","José Eugenio Piedade Rodrigues","PMN",360
+368,"14563","Raimundo Nonato Gomes De Araujo Filho","PTB",358
+369,"28888","Robson Palma Do Rosario","PRTB",356
+370,"55678","Estefane Celis Araújo","PSD",356
+371,"33211","Mônica De Menezes De Assis","PMN",355
+372,"22077","Zaine Miranda Mota Ferreira","PL",353
+373,"50420","Juan Ricthelly Vieira Da Silva","PSOL",353
+374,"23321","Jacira Siqueira Silva","CIDADANIA",348
+375,"23122","Francisco Euquildes De Araújo","CIDADANIA",341
+376,"22021","Maria De Fátima Passos Cavalcante","PL",338
+377,"77123","Francisco Lopes De Sousa Filho","SOLIDARIEDADE",337
+378,"12121","Cleonice Dias Da Silva","PDT",335
+379,"19020","Washington Soares Ferreira","PODE",328
+380,"10987","Débora Regina Da Conceição De Alencar","REPUBLICANOS",327
+381,"11223","Andrea Vieira Albuquerque De Souza","PP",326
+382,"33061","Kláicyla Grace Dos Santos Lopes","PMN",326
+383,"40004","Eric Seba De Castro","PSB",325
+384,"28001","Nilson Da Silva Pires","PRTB",324
+385,"19800","Patrícia Carlos Dos Santos","PODE",322
+386,"28777","Amilton Silva","PRTB",321
+387,"55200","Nagela Maria Gonçalves Dos Santos","PSD",315
+388,"51190","Fábio Da Silva","PATRIOTA",310
+389,"55111","Narciso Dourado De Araújo","PSD",303
+390,"10007","Cláudia Aires Barbosa Ribeiro","REPUBLICANOS",300
+391,"10010","Rogério Almeida Dos Santos Padilha","REPUBLICANOS",300
+392,"27777","Iracilda Maria De Siqueira","DC",300
+393,"28008","Ricardo Fonseca","PRTB",297
+394,"20789","Washington Magno Da Silva Baptista","PSC",292
+395,"11220","Wellington Moura Monteiro Rolim","PP",290
+396,"30222","Pedro Paulo Araujo Moreira","NOVO",279
+397,"19220","Yago De Oliveira Rodrigues","PODE",278
+398,"51000","Alexandre Nunes Dos Santos","PATRIOTA",277
+399,"35222","Micheline Nascimento Dos Reis Araujo","PMB",269
+400,"12244","Philippe Antônio Heringer Ferreira Gabrig Emerick Botelho","PDT",266
+401,"35677","Samia Waleska Pereira Barbosa De Carvalho","PMB",263
+402,"12020","Lucimar Alves Martins","PDT",261
+403,"14120","Ricardo Henrique Bento De Souza De Barros Moreira","PTB",261
+404,"28190","Wesley Araújo Viana","PRTB",261
+405,"20220","Eudes José Dos Santos","PSC",259
+406,"30500","Maria Luiza Antunes De Paiva","NOVO",255
+407,"70022","Juliana Zappala Porcaro Pires De Saboia","AVANTE",254
+408,"77000","Mateus Silva De Moura","SOLIDARIEDADE",253
+409,"15069","Lélio Firmino Saunders Costa","MDB",251
+410,"90444","Helena Cantanhêde Vieira","PROS",250
+411,"22373","Inês Ferreira Dos Santos","PL",247
+412,"35777","Rony Barbosa Da Silva","PMB",245
+413,"50016","Juliana De Freitas Nascimento","PSOL",244
+414,"14022","Joao Victor Oliveira Araponga Salas","PTB",242
+415,"35321","Maria Rita Alves De Souza","PMB",242
+416,"50456","Ildeu Nery De Araújo","PSOL",242
+417,"27000","Kelwen Tchales Ferreira Borges","DC",241
+418,"12120","Barby Dos Anjos Macedo","PDT",239
+419,"28082","Erick Paixão Bonzi De Assis","PRTB",234
+420,"28281","Reginaldo Cardoso Da Silva","PRTB",234
+421,"70300","Elenilde Lima Franco","AVANTE",231
+422,"90013","Francisco Da Silva Ferreira","PROS",230
+423,"19999","Márcia Soares Martins","PODE",228
+424,"70200","Thayrane Da Silva Apostolo Evangelista","AVANTE",225
+425,"30830","Ana Paula Rodrigues Teles","NOVO",220
+426,"55283","Jussara Maria Faviero De Lara Ribeiro","PSD",219
+427,"77577","Raimundo Vitorino Da Silva Filho","SOLIDARIEDADE",218
+428,"35123","Welber Ferreira Matos","PMB",216
+429,"55175","Carmem Lúcia Da Silva Santana","PSD",216
+430,"27007","José Sousa Silva","DC",213
+431,"77277","Silvestre Araújo","SOLIDARIEDADE",213
+432,"14189","Rubens De Araujo Lima","PTB",210
+433,"23245","Emiline Nascimento De Oliveira","CIDADANIA",205
+434,"51010","Bruna Rachel Lobato De Oliveira Vogado Ribeiro","PATRIOTA",200
+435,"70900","Ivana Guimarães Stoimenof De Sousa","AVANTE",199
+436,"15007","Ludmila De Faro Nazareth Passos","MDB",198
+437,"28022","Joaquim José Gomes E Silva","PRTB",196
+438,"90007","Moacir Rosa Da Silva","PROS",196
+439,"14777","Catarina De Morais Sousa Lima","PTB",194
+440,"20322","Elisangela De Almeida Candeias Monteiro","PSC",193
+441,"18777","Vinda Daniel Afonso","REDE",191
+442,"19030","Lorena Ferreira","PODE",188
+443,"20147","Fatima Dantas Montenegro","PSC",186
+444,"35333","Vanda Clea Rodrigues Do Lago","PMB",183
+445,"19300","Cláudia Virgínia Rodrigues Pereira","PODE",182
+446,"20111","Rita De Cássia Mota De Albuquerque E Silva","PSC",182
+447,"40800","Guilherme Alves Carvalho","PSB",181
+448,"12444","Antônio José Do Nascimento Neto","PDT",179
+449,"77555","Marcio Guimarães Cursino","SOLIDARIEDADE",178
+450,"12111","Maria Francisca Soares Da Côrte","PDT",177
+451,"28100","Rosa Helena Rêgo Martins","PRTB",174
+452,"35707","José De Ribamar Moreira De Araujo","PMB",173
+453,"12116","Zulmira Inês Lourena Gomes Da Costa","PDT",171
+454,"15022","Leslie Castro De Souza","MDB",170
+455,"77777","Alexandre Lira De Souza","SOLIDARIEDADE",170
+456,"19777","Ranna Carla Martins Oliveira","PODE",169
+457,"19156","Silvânia Leal Dias","PODE",165
+458,"27722","Fellipe Passos Dos Santos","DC",165
+459,"40707","Bruno Gurgel De Oliveira Santos","PSB",165
+460,"27999","Helton Lopes Marques","DC",161
+461,"28917","Gustavo Ramiro Silva Souza","PRTB",160
+462,"70369","Valéria Maria De Santana","AVANTE",160
+463,"27127","Luciana Bladem De Souza","DC",154
+464,"16016","Francisco José Targino","PSTU",152
+465,"30444","Monica Da Silva Alvares","NOVO",151
+466,"27333","João Batista Costa Gois","DC",150
+467,"23111","Mariana De Paula Moura","CIDADANIA",149
+468,"50300","Itamar Alves De Oliveira","PSOL",149
+469,"27555","Ronon Pinheiro Da Cruz","DC",146
+470,"12290","Daniela Balbina De Sá","PDT",145
+471,"28180","Nívia Maria Da Cruz Costa Leal","PRTB",144
+472,"27278","Fabio Carlos Fernandes","DC",140
+473,"77345","Maria Soneide Dos Santos Ferreira","SOLIDARIEDADE",139
+474,"15061","Lívia Saraiva Da Cruz Teixeira","MDB",134
+475,"27321","Valdinete Barboza Lisboa Ritto Antonio","DC",132
+476,"28217","Maria De Fátima Chaves Cavalcante De Oliveira","PRTB",132
+477,"44002","Marcia De Sousa Gama","UNIÃO",127
+478,"77191","Deusa Sene Capuchinho","SOLIDARIEDADE",126
+479,"77193","Jose Wagner Gonçalves Da Costa","SOLIDARIEDADE",123
+480,"90199","Jose Roberto Da Silva","PROS",122
+481,"77373","Carmeliana Silva Dos Santos","SOLIDARIEDADE",121
+482,"90180","Francilma Alves Mendonça De Oliveira","PROS",118
+483,"90901","Ismar Carvalho De Oliveira","PROS",118
+484,"90999","Angela Maria Teixeira","PROS",114
+485,"55550","Jaqueline Bernardo De Alencar","PSD",111
+486,"28800","Aureni Braz Vilanova De Sousa","PRTB",110
+487,"90333","Roberta Almeida De Oliveira","PROS",109
+488,"19888","Ângelo Lima Lenza","PODE",107
+489,"77727","Edna Borges Correa","SOLIDARIEDADE",106
+490,"14023","Roberth Mytchuwm Machado Rego","PTB",104
+491,"30420","John Rayner Nogueira Mendes","NOVO",103
+492,"90555","Lusiano Francisco De Sousa","PROS",103
+493,"12127","Dilmanoel De Araujo Soares","PDT",102
+494,"90762","Clara Viviane Ramos Araujo Martinez","PROS",102
+495,"27100","Josivaldo Feitosa Da Silva","DC",99
+496,"19783","Josivan Da Silva Ferreira","PODE",97
+497,"28128","Aline Vieira Calado","PRTB",97
+498,"77100","Blenda Lara Fonseca Do Nascimento","SOLIDARIEDADE",97
+499,"77677","Angelina Rejane Do Vale","SOLIDARIEDADE",95
+500,"20777","Maria José Alves Moreno Cabral","PSC",94
+501,"27227","Cristiane De Paula Do Nascimento","DC",92
+502,"77713","Claudia Ideane Carvalho Barroso De Oliveira","SOLIDARIEDADE",91
+503,"30044","Sólon Barbosa Faria","NOVO",90
+504,"90902","Amilton Gomes De Paula","PROS",86
+505,"77222","Sami Martins Yassine","SOLIDARIEDADE",84
+506,"27234","Alziro Cezar Mariano Pereira","DC",80
+507,"35193","Wilkerson Ferreira Da Silva","PMB",80
+508,"90789","Karen Lucia Santos Rechmann","PROS",80
+509,"77456","Antonio Santos Mendes","SOLIDARIEDADE",79
+510,"14147","Cleber Rodrigues Moitinho","PTB",77
+511,"51512","Coubert Braz Da Veiga","PATRIOTA",74
+512,"77089","Luiz Carlos Rodrigues De Matos","SOLIDARIEDADE",72
+513,"18088","Vanessa Guimarães De Salles Pereira","REDE",71
+514,"35121","Christiana Inocencio","PMB",71
+515,"14407","Marcos Martins Peres","PTB",70
+516,"27220","Richarde Braga Rieche","DC",70
+517,"14333","Francisco Suerlandio Farias Ferreira","PTB",67
+518,"77666","Marly Bezerra De Medeiros","SOLIDARIEDADE",65
+519,"27017","Lucimario Batista Dos Santos","DC",63
+520,"35007","Zainer Da Mota","PMB",63
+521,"23005","Rosilene Maria De Viveiros Conceição","CIDADANIA",61
+522,"19061","Edilson Eugênio Da Silva Junior","PODE",60
+523,"23987","Marcos Luiz Sabóia Loureiro","CIDADANIA",60
+524,"51017","Eliete De Souza Amaral Pimentel","PATRIOTA",60
+525,"27111","Solange De Souza Holanda Carvalho","DC",58
+526,"29129","Cecília Maria Dourado De Aragão Santos","PCO",58
+527,"27222","Maria Duclerio Brazilino Da Silva","DC",57
+528,"27600","Carlos Alberto Nunes Da Cunha","DC",57
+529,"50160","Ângelo Balbino Soares Pereira","PSOL",57
+530,"90888","Ana Cristina Oliveira","PROS",50
+531,"35180","Jairo Felix","PMB",43
+532,"14700","Raimunda Vieira Dos Santos","PTB",42
+533,"77745","Laci Maria Silva","SOLIDARIEDADE",41
+534,"23999","Izael Damázio De Souza","CIDADANIA",40
+535,"15504","Neide Rodrigues Messias","MDB",38
+536,"35140","Adriana Dos Anjos Glória","PMB",37
+537,"19266","Terezinha De Jesus Athan Da Silva","PODE",36
+538,"35055","Iris Do Céu De Paula Gomes","PMB",36
+539,"77770","Sérgio De Oliveira Lopes","SOLIDARIEDADE",36
+540,"35444","Marcos Antonio Da Silva","PMB",33
+541,"29229","Neuder Francino Bastos","PCO",30
+542,"29329","David Horn Pureza","PCO",27
+543,"35888","Lucileide Nascimento E Silva","PMB",20
+544,"55011","Priscilla Valéria Martins","PSD",12
+545,"35100","Kyara Zaruty Da Silva","PMB",6
+546,"35190","Luciano Lucas Da Silva","PMB",6
+547,"90090","Sergio Luiz Leite Oliveira","PROS",5
+548,"11144","Marcio Valerio Mendonça Tomaz","PP",0
+549,"11911","Darley Cruz De Assis","PP",0
+550,"13190","Sidney Da Silva Patrício","PT",0
+551,"14444","Rubens Cesar Brunelli Junior","PTB",0
+552,"28288","Ana Cleia Pessoa Holanda Dos Santos","PRTB",0
+553,"29029","Percilliane Marrara Silva","PCO",0
+554,"51031","Meire Aparecida Carmo De Oliveira","PATRIOTA",0

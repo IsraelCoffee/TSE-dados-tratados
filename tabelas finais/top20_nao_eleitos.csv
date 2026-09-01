@@ -1,0 +1,21 @@
+﻿"posicao","numero_candidato","nome_candidato","sigla_partido","total_votos","nome_sem_sufixo","nome_abrev","supera_algum_eleito"
+1,"10456","Rodrigo Germano Delmasso Martins","REPUBLICANOS",23243,"Rodrigo Germano Delmasso Martins","Rodrigo Martins",TRUE
+2,"55123","Francisco Claudio De Abrantes","PSD",20254,"Francisco Claudio De Abrantes","Francisco Abrantes",TRUE
+3,"22200","Reginaldo Rocha Sardinha Goes","PL",20107,"Reginaldo Rocha Sardinha Goes","Reginaldo Goes",TRUE
+4,"22123","Agaciel Da Silva Maia","PL",17693,"Agaciel Da Silva Maia","Agaciel Maia",TRUE
+5,"22777","Carlos Eduardo Antunes Torres","PL",16990,"Carlos Eduardo Antunes Torres","Carlos Torres",TRUE
+6,"36111","Carlos Dalvan Soares De Oliveira","AGIR",16227,"Carlos Dalvan Soares De Oliveira","Carlos Oliveira",TRUE
+7,"15015","Christianno Nogueira Araújo","MDB",15897,"Christianno Nogueira Araújo","Christianno Araújo",TRUE
+8,"15222","Carlos Alberto Rodrigues Tabanez","MDB",14523,"Carlos Alberto Rodrigues Tabanez","Carlos Tabanez",TRUE
+9,"20190","Geraldo Batista Alves De Sousa","PSC",14123,"Geraldo Batista Alves De Sousa","Geraldo Sousa",TRUE
+10,"22122","Renato Andrade Dos Santos","PL",13976,"Renato Andrade Dos Santos","Renato Santos",TRUE
+11,"11234","Valdelino Rodrigues Barcelos","PP",13040,"Valdelino Rodrigues Barcelos","Valdelino Barcelos",TRUE
+12,"90190","Fernando Batista Fernandes","PROS",12383,"Fernando Batista Fernandes","Fernando Fernandes",TRUE
+13,"44044","Daniel De Sousa Oliveira","UNIÃO",11739,"Daniel De Sousa Oliveira","Daniel Oliveira",TRUE
+14,"33456","Renata Mesquita D Aguiar","PMN",11473,"Renata Mesquita D Aguiar","Renata Aguiar",TRUE
+15,"19123","Marcos Gutemberg Fialho Da Costa","PODE",11360,"Marcos Gutemberg Fialho Da Costa","Marcos Costa",TRUE
+16,"43123","Wasny Nakle De Roure","PV",11215,"Wasny Nakle De Roure","Wasny Roure",TRUE
+17,"11123","Anderson Medina Borges","PP",11105,"Anderson Medina Borges","Anderson Borges",TRUE
+18,"40115","Suzele Veloso De Oliveira","PSB",10306,"Suzele Veloso De Oliveira","Suzele Oliveira",FALSE
+19,"40061","Mucio Botelho De Oliveira","PSB",9956,"Mucio Botelho De Oliveira","Mucio Oliveira",FALSE
+20,"40105","Rodrigo Francelino Alves","PSB",9643,"Rodrigo Francelino Alves","Rodrigo Alves",FALSE
